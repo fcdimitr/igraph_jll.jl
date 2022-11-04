@@ -1,0 +1,17 @@
+[[igraph]]
+arch = "x86_64"
+git-tree-sha1 = "5a0636a0390daa20b2e540da9fd71eb2ad7e7a1a"
+os = "macos"
+
+    [[igraph.download]]
+    sha256 = "edb990165921fd2e6a61d4972a1aa1c13dff0828f869453674da08ba55f8af80"
+    url = "https://github.com/fcdimitr/igraph_jll.jl/releases/download/igraph-v0.9.10+0/igraph.v0.9.10.x86_64-apple-darwin.tar.gz"
+[[igraph]]
+arch = "x86_64"
+git-tree-sha1 = "bf831c29398edb59928b1629425680e5014892a6"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "29a7de5fc92a8017386d2924883c8a33e457107a121e6d60ad0fe3630e02fbe3"
+    url = "https://github.com/fcdimitr/igraph_jll.jl/releases/download/igraph-v0.9.10+0/igraph.v0.9.10.x86_64-linux-gnu.tar.gz"
